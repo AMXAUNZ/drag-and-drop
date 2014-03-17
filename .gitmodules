@@ -1,3 +1,6 @@
 [submodule "lib/amx-modero-library"]
 	path = lib/amx-modero-library
 	url = https://github.com/AMXAUNZ/amx-modero-library.git
+[submodule "lib/amx-device-library"]
+	path = lib/amx-device-library
+	url = https://github.com/AMXAUNZ/amx-device-library.git
