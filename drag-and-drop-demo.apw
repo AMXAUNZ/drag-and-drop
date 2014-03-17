@@ -144,6 +144,10 @@
 <FilePathName>drag-and-drop.axs</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="None" Type="Include"><Identifier>amx-device-control</Identifier>
+<FilePathName>lib\amx-device-library\amx-device-control.axi</FilePathName>
+<Comments></Comments>
+</File>
 <File CompileType="None" Type="Include"><Identifier>amx-modero-api</Identifier>
 <FilePathName>lib\amx-modero-library\amx-modero-api.axi</FilePathName>
 <Comments></Comments>
